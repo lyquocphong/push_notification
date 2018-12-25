@@ -1,0 +1,25 @@
+{
+  "name": "push_notification",
+  "version": "1.0.0",
+  "description": "+ ES7 React/Redux/GraphQL/React-Native snippets\r + bracket-pair-colorizer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyquocphong/push_notification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyquocphong/push_notification/issues"
+  },
+  "homepage": "https://github.com/lyquocphong/push_notification#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  }
+}
